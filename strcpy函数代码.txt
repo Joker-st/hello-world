@@ -1,4 +1,4 @@
-hellow world!
+strcpy函数代码
 
-远程：哈哈哈哈
+本地编辑
 
